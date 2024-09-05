@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
+    <title>Climate Action</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
@@ -21,7 +22,12 @@
         <div class="content-box">
             <h2>Impacts of Climate Change</h2>
             <img src="images/impacts.jpg" alt="Impacts of Climate Change">
-            <p>Climate change leads to severe impacts including rising temperatures, melting ice caps, increased frequency of extreme weather events, and loss of biodiversity. These effects threaten ecosystems, human health, and economies.</p>
+            <p>Climate change leads to severe impacts including : </p>
+            <ol><li> Rising temperatures</li>
+            <li> Melting ice caps</li>
+           <LI> Increased frequency of extreme weather events </LI>
+           <LI> Loss of biodiversity</LI></ol> 
+           <P>These effects threaten ecosystems, human health, and economies.</P>
         </div>
     </section>
 
@@ -29,7 +35,12 @@
         <div class="content-box">
             <h2>What Can Be Done?</h2>
             <img src="images/actions.jpg" alt="Climate Action Steps">
-            <p>To combat climate change, we can reduce our carbon footprint by using renewable energy sources, improving energy efficiency, adopting sustainable practices, and supporting policies aimed at environmental protection.</p>
+            <p><ol><li>To combat climate change</li>
+            <li>We can reduce our carbon footprint by using renewable energy sources</li> 
+            <li>Improving energy efficiency</li>
+            <li>Adopting sustainable practices</li> 
+            <li>Supporting policies aimed at environmental protection</li></ol></p>
 
 </body>
 </html>
+
