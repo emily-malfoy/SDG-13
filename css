@@ -1,0 +1,54 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:Times New Roman", Times, serif;
+    line-height: 1.6;
+    background-color: #f7f5f9;
+    color: #333;
+}
+
+header {
+    background: #4CAF70;
+    color: #fff;
+    text-align: center;
+}
+
+header <b> h1 {
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 900px;
+}
+
+.content-box {
+    background: #8affb2;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.content-box h2 {
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+.content-box img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+
